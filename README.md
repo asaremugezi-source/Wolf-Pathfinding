@@ -1,0 +1,1 @@
+This explores the concept of pathfinding in an environment of arbitrary size, the idea is to not use very much memory, thus traditional approaches (BFS/ DFS/ Dijkstra's algorithm) may not be suitable. 
